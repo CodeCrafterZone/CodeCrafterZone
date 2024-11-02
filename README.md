@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CodeCrafterZone a junior developer,
-- 👀 I’m interested in work as freelance, on cool projects.
-- 🌱 I’m currently working on various personal projects and continuing my training.
-- 💞️ I’m looking to collaborate on projects that challenge me and meet a real need.
-- 📫 Feel free to contact me at @codecrafterzone on instagram.
+- 👋 Hello, moi c'est David, je suis developpeur web fullstack.
+- 👀 je suis actuellement en quête de projets de développement web Full Stack Javascript, innovants et riches en challenges.
+- 🌱 Je travaille actuellement sur divers projets personnels et je poursuis ma formation..
+- 💞️ Je cherche à collaborer à des projets qui me mettent au défi et répondent à un besoin réel.
+- 📫 Pour me contacter : dkilem.koko@gmail.com
 
 <!---
 CodeCrafterZone/CodeCrafterZone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
